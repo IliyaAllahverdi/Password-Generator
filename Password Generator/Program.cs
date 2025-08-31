@@ -1,8 +1,8 @@
 ﻿using System.Text;
-using System;
-using System.Text;
 
-class Program
+namespace Password_Generator;
+
+abstract class Program
 {
     static void Main(string[] args)
     {
