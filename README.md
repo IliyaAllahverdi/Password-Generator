@@ -24,6 +24,7 @@ A simple and useful **Password Generator** built with **C#** and **.NET**.
 git clone https://github.com/USERNAME/PasswordGenerator.git
 cd PasswordGenerator
 dotnet run
+```
 📸 Example Output
 🔐 Password Generator (C# .NET)
 Enter password length: 12
