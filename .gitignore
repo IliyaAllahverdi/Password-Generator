@@ -1,5 +1,49 @@
+# Build results
 bin/
 obj/
-/packages/
-riderModule.iml
-/_ReSharper.Caches/
+out/
+[Bb]uild/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.NuGet.config
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+*.vspscc
+*.vssscc
+
+# Other
+[Tt]est[Rr]esult*/
+*.dbmdl
+*.jfm
+*.pdb
+*.cache
+*.opendb
+
+# OS files
+.DS_Store
+Thumbs.db
